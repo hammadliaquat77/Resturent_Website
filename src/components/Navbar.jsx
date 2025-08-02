@@ -13,11 +13,11 @@ export default function Navbar() {
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-6">
-          <li><Link to="/" className="hover:text-gray-300">Home</Link></li>
-          <li><Link to="/about" className="hover:text-gray-300">About</Link></li>
-          <li><Link to="/category-menu" className="hover:text-gray-300">Menu</Link></li>
-          <li><Link to="/gallery" className="hover:text-gray-300">Gallery</Link></li>
-          <li><Link to="/contact" className="hover:text-gray-300">Contact</Link></li>
+          <li><Link to="/" className="hover:text-gray-300 hover:transition-all duration-200 transform hover:font-bold">Home</Link></li>
+          <li><Link to="/about" className="hover:text-gray-300 hover:transition-all duration-200 transform hover:font-bold">About</Link></li>
+          <li><Link to="/category-menu" className="hover:text-gray-300 hover:transition-all duration-200 transform hover:font-bold">Menu</Link></li>
+          <li><Link to="/gallery" className="hover:text-gray-300 hover:transition-all duration-200 transform hover:font-bold">Gallery</Link></li>
+          <li><Link to="/contact" className="hover:text-gray-300 hover:transition-all duration-200 transform hover:font-bold">Contact</Link></li>
         </ul>
 
         {/* Mobile Icon */}
