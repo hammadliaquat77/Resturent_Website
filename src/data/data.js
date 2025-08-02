@@ -4,8 +4,8 @@ import Masala_Fries from "../../public/Starter/Masala_fries.jpg"
 import Cheese_Fries from "../../public/Starter/cheese_fries.jpg"
 import Nuggets from "../../public/Starter/Nuggets.jpg"
 import hot_wings from "../../public/Starter/hot_wings.jpg"
-import Coleslaw_salad from "../../public/Starter/Coleslaw Salad.jpg"
-import Russian_salad from "../../public/Starter/Russian Salad.jpg"
+import Coleslaw_salad from "../../public/Starter/Coleslaw_Salad.jpg"
+import Russian_salad from "../../public/Starter/Russian_Salad.jpg"
 
 
 import Bbq_roll from '../../public/Roll/BBQ Roll.jpeg'
