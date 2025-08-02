@@ -2,12 +2,12 @@ import { motion } from "framer-motion";
 
 
 const images = [
-  "../../public/Burger/Beef_Burger.jpeg",
-  "../../public/Starter/Masala_fries.jpg",
-  "../../public/Roll/Zinger_Roll.jpeg",
-  "../../public/Drinks/Pakola_Ice_Cream_Soda.jpeg",
-  "../../public/Pizza/Chicken_Tikka_Pizza.jpeg",
-  "../../public/Bbq/Reshmi_Kabab.jpeg",
+ "/Burger/Beef_Burger.jpeg",
+  "/Starter/Masala_fries.jpg",
+  "/Roll/Zinger_Roll.jpeg",
+  "/Drinks/Pakola_Ice_Cream_Soda.jpeg",
+  "/Pizza/Chicken_Tikka_Pizza.jpeg",
+  "/Bbq/Reshmi_Kabab.jpeg",
 ];
 
 export default function Gallery() {
