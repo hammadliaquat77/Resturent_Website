@@ -57,7 +57,7 @@ import Vegetable_pizza from '../../public/Pizza/Vegetable Pizza.jpeg'
 
 
 import Beef_boti from '../../public/Bbq/Beef Boti.jpeg'
-import Beef_kabab from '../../public/Bbq/Beef Seekh kabab.jpeg'
+import Beef_kabab from '../../public/Bbq/Beef Seekh Kabab.jpeg'
 import Behari_boti from '../../public/Bbq/Behari Boti.jpeg'
 import Chicken_boti from '../../public/Bbq/Chicken Boti.jpeg'
 import Chiken_seekh_kabab from '../../public/Bbq/Chicken Seekh kabab.jpeg'
