@@ -1,12 +1,13 @@
 import { motion } from "framer-motion";
 
+
 const images = [
-  "https://via.placeholder.com/300x200?text=Burger",
-  "https://via.placeholder.com/300x200?text=Pizza",
-  "https://via.placeholder.com/300x200?text=Fries",
-  "https://via.placeholder.com/300x200?text=Broast",
-  "https://via.placeholder.com/300x200?text=Shawarma",
-  "https://via.placeholder.com/300x200?text=Roll+Paratha",
+  "../../public/Burger/Beef_Burger.jpeg",
+  "../../public/Starter/Masala_fries.jpg",
+  "../../public/Roll/Zinger_Roll.jpeg",
+  "../../public/Drinks/Pakola_Ice_Cream_Soda.jpeg",
+  "../../public/Pizza/Chicken_Tikka_Pizza.jpeg",
+  "../../public/Bbq/Reshmi_Kabab.jpeg",
 ];
 
 export default function Gallery() {
